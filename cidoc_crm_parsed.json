@@ -234,8 +234,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E77",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E77"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P12"
@@ -332,8 +332,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E39",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E39"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P11"
@@ -394,10 +394,10 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E7",
-            "http://www.cidoc-crm.org/cidoc-crm/E1",
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
             "http://www.cidoc-crm.org/cidoc-crm/E77",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E7",
+            "http://www.cidoc-crm.org/cidoc-crm/E1"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P12",
@@ -525,8 +525,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E7",
-            "http://www.cidoc-crm.org/cidoc-crm/E39"
+            "http://www.cidoc-crm.org/cidoc-crm/E39",
+            "http://www.cidoc-crm.org/cidoc-crm/E7"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P14"
@@ -555,8 +555,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E7",
-            "http://www.cidoc-crm.org/cidoc-crm/E39"
+            "http://www.cidoc-crm.org/cidoc-crm/E39",
+            "http://www.cidoc-crm.org/cidoc-crm/E7"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P14"
@@ -604,8 +604,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E77",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E77"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P12"
@@ -672,8 +672,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E7",
-            "http://www.cidoc-crm.org/cidoc-crm/E39"
+            "http://www.cidoc-crm.org/cidoc-crm/E39",
+            "http://www.cidoc-crm.org/cidoc-crm/E7"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P14"
@@ -702,8 +702,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E7",
-            "http://www.cidoc-crm.org/cidoc-crm/E39"
+            "http://www.cidoc-crm.org/cidoc-crm/E39",
+            "http://www.cidoc-crm.org/cidoc-crm/E7"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P14"
@@ -751,8 +751,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E77",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E77"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P12"
@@ -817,8 +817,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E7",
-            "http://www.cidoc-crm.org/cidoc-crm/E70"
+            "http://www.cidoc-crm.org/cidoc-crm/E70",
+            "http://www.cidoc-crm.org/cidoc-crm/E7"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P16"
@@ -1173,8 +1173,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E41",
-            "http://www.cidoc-crm.org/cidoc-crm/E1"
+            "http://www.cidoc-crm.org/cidoc-crm/E1",
+            "http://www.cidoc-crm.org/cidoc-crm/E41"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P1"
@@ -1279,8 +1279,8 @@
         {
           "entities": [
             "http://www.cidoc-crm.org/cidoc-crm/E18",
-            "http://www.cidoc-crm.org/cidoc-crm/E72",
-            "http://www.cidoc-crm.org/cidoc-crm/E39"
+            "http://www.cidoc-crm.org/cidoc-crm/E39",
+            "http://www.cidoc-crm.org/cidoc-crm/E72"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P105",
@@ -1480,8 +1480,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E90",
-            "http://www.cidoc-crm.org/cidoc-crm/E18"
+            "http://www.cidoc-crm.org/cidoc-crm/E18",
+            "http://www.cidoc-crm.org/cidoc-crm/E90"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P128"
@@ -1937,8 +1937,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E77",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E77"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P12"
@@ -1974,8 +1974,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E77",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E77"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P12"
@@ -2010,8 +2010,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E63",
-            "http://www.cidoc-crm.org/cidoc-crm/E77"
+            "http://www.cidoc-crm.org/cidoc-crm/E77",
+            "http://www.cidoc-crm.org/cidoc-crm/E63"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P92"
@@ -2043,8 +2043,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E63",
-            "http://www.cidoc-crm.org/cidoc-crm/E77"
+            "http://www.cidoc-crm.org/cidoc-crm/E77",
+            "http://www.cidoc-crm.org/cidoc-crm/E63"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P92"
@@ -2073,8 +2073,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E39",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E39"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P11"
@@ -2122,8 +2122,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E63",
-            "http://www.cidoc-crm.org/cidoc-crm/E77"
+            "http://www.cidoc-crm.org/cidoc-crm/E77",
+            "http://www.cidoc-crm.org/cidoc-crm/E63"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P92"
@@ -2152,14 +2152,14 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
             "http://www.cidoc-crm.org/cidoc-crm/E39",
             "http://www.cidoc-crm.org/cidoc-crm/E64",
-            "http://www.cidoc-crm.org/cidoc-crm/E77",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E77"
           ],
           "properties": [
-            "http://www.cidoc-crm.org/cidoc-crm/P93",
-            "http://www.cidoc-crm.org/cidoc-crm/P11"
+            "http://www.cidoc-crm.org/cidoc-crm/P11",
+            "http://www.cidoc-crm.org/cidoc-crm/P93"
           ]
         }
       ]
@@ -2237,8 +2237,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E41",
-            "http://www.cidoc-crm.org/cidoc-crm/E1"
+            "http://www.cidoc-crm.org/cidoc-crm/E1",
+            "http://www.cidoc-crm.org/cidoc-crm/E41"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P1"
@@ -2373,14 +2373,14 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E63",
             "http://www.cidoc-crm.org/cidoc-crm/E18",
+            "http://www.cidoc-crm.org/cidoc-crm/E77",
             "http://www.cidoc-crm.org/cidoc-crm/E11",
-            "http://www.cidoc-crm.org/cidoc-crm/E77"
+            "http://www.cidoc-crm.org/cidoc-crm/E63"
           ],
           "properties": [
-            "http://www.cidoc-crm.org/cidoc-crm/P31",
-            "http://www.cidoc-crm.org/cidoc-crm/P92"
+            "http://www.cidoc-crm.org/cidoc-crm/P92",
+            "http://www.cidoc-crm.org/cidoc-crm/P31"
           ]
         }
       ]
@@ -2468,8 +2468,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E7",
-            "http://www.cidoc-crm.org/cidoc-crm/E70"
+            "http://www.cidoc-crm.org/cidoc-crm/E70",
+            "http://www.cidoc-crm.org/cidoc-crm/E7"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P16"
@@ -2529,8 +2529,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E77",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E77"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P12"
@@ -2600,8 +2600,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E63",
-            "http://www.cidoc-crm.org/cidoc-crm/E77"
+            "http://www.cidoc-crm.org/cidoc-crm/E77",
+            "http://www.cidoc-crm.org/cidoc-crm/E63"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P92"
@@ -2852,8 +2852,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E7",
             "http://www.cidoc-crm.org/cidoc-crm/E2",
+            "http://www.cidoc-crm.org/cidoc-crm/E7",
             "http://www.cidoc-crm.org/cidoc-crm/E1"
           ],
           "properties": [
@@ -3084,8 +3084,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E7",
-            "http://www.cidoc-crm.org/cidoc-crm/E70"
+            "http://www.cidoc-crm.org/cidoc-crm/E70",
+            "http://www.cidoc-crm.org/cidoc-crm/E7"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P16"
@@ -3116,8 +3116,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E39",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E39"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P11"
@@ -3148,8 +3148,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E39",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E39"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P11"
@@ -3180,8 +3180,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E39",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E39"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P11"
@@ -3212,8 +3212,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E39",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E39"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P11"
@@ -3301,8 +3301,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E39",
-            "http://www.cidoc-crm.org/cidoc-crm/E5"
+            "http://www.cidoc-crm.org/cidoc-crm/E5",
+            "http://www.cidoc-crm.org/cidoc-crm/E39"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P11"
@@ -3565,8 +3565,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E41",
-            "http://www.cidoc-crm.org/cidoc-crm/E1"
+            "http://www.cidoc-crm.org/cidoc-crm/E1",
+            "http://www.cidoc-crm.org/cidoc-crm/E41"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P1"
@@ -3595,8 +3595,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E41",
-            "http://www.cidoc-crm.org/cidoc-crm/E1"
+            "http://www.cidoc-crm.org/cidoc-crm/E1",
+            "http://www.cidoc-crm.org/cidoc-crm/E41"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P1"
@@ -3626,8 +3626,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E41",
-            "http://www.cidoc-crm.org/cidoc-crm/E1"
+            "http://www.cidoc-crm.org/cidoc-crm/E1",
+            "http://www.cidoc-crm.org/cidoc-crm/E41"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P1"
@@ -3872,8 +3872,8 @@
       "subproperty_of_chain_uris": [
         {
           "entities": [
-            "http://www.cidoc-crm.org/cidoc-crm/E58",
-            "http://www.cidoc-crm.org/cidoc-crm/E54"
+            "http://www.cidoc-crm.org/cidoc-crm/E54",
+            "http://www.cidoc-crm.org/cidoc-crm/E58"
           ],
           "properties": [
             "http://www.cidoc-crm.org/cidoc-crm/P91"

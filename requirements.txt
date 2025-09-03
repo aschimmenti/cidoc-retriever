@@ -1,0 +1,11 @@
+# CIDOC-CRM Ontology RAG System Dependencies
+
+# Core ML/AI Libraries
+faiss-cpu>=1.7.4
+voyageai>=0.2.0
+openai>=1.0.0
+numpy>=1.21.0
+
+# Web Scraping and Parsing
+beautifulsoup4>=4.11.0
+requests>=2.28.0

@@ -1,6 +1,6 @@
 # CIDOC-CRM Ontology RAG System
 
-A powerful Retrieval-Augmented Generation (RAG) system for semantic search and intelligent querying of the CIDOC-CRM ontology. This system helps cultural heritage professionals, researchers, and developers find the right CIDOC-CRM properties and classes for modeling their data.
+A powerful Retrieval-Augmented Generation (RAG) system for semantic search and intelligent querying of the CIDOC-CRM ontology. This system helps cultural heritage professionals, researchers, and developers find the right CIDOC-CRM properties and classes for modeling their data. Currently relying on OpenAI and Voyage AI (soon to be replaced by HuggingFace and Ollama). 
 
 ## 🚀 Features
 
@@ -87,7 +87,7 @@ python cidoc-retriever.py "temporal properties" --k 6
 
 ### 3. AI Generation
 - **Context**: Combines search results with domain expertise
-- **Explanation**: GPT-4 provides detailed, practical explanations
+- **Explanation**: LLM provides detailed, practical explanations
 - **Examples**: Concrete usage examples with proper CIDOC-CRM modeling
 
 ## 📊 System Capabilities
@@ -168,13 +168,6 @@ Relevance Score: 0.856
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **CIDOC-CRM**: International Committee for Documentation of the International Council of Museums
-- **Voyage AI**: For semantic embeddings and reranking
-- **OpenAI**: For intelligent explanations and examples
-- **FAISS**: For efficient vector similarity search
 
 ## 📞 Support
 

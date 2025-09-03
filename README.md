@@ -5,7 +5,6 @@ A powerful Retrieval-Augmented Generation (RAG) system for semantic search and i
 ## 🚀 Features
 
 - **Semantic Search**: Natural language queries for CIDOC-CRM properties and classes
-- **AI-Powered Explanations**: GPT-4 powered detailed explanations with concrete examples
 - **Combined Search**: Searches both properties and classes simultaneously
 - **Interactive Mode**: Real-time query interface for exploration
 - **FAISS Indexing**: Fast vector similarity search with 160 properties and 81 classes
